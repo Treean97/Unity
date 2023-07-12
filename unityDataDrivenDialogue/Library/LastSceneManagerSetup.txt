@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/1_ExamDialogue/Scenes/ScenePlayGame.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,22 @@
+<DialogueInfoList>
+  <DialogueInfo>
+    <mId>0</mId>
+    <mName>철수</mName>
+    <mDialogue>안녕</mDialogue>
+  </DialogueInfo>
+  <DialogueInfo>
+    <mId>1</mId>
+    <mName>민수</mName>
+    <mDialogue>ㅎㅇ</mDialogue>
+  </DialogueInfo>
+  <DialogueInfo>
+    <mId>2</mId>
+    <mName>영희</mName>
+    <mDialogue>hello</mDialogue>
+  </DialogueInfo>
+  <DialogueInfo>
+    <mId>3</mId>
+    <mName>민수</mName>
+    <mDialogue>잘가</mDialogue>
+  </DialogueInfo>
+</DialogueInfoList>
