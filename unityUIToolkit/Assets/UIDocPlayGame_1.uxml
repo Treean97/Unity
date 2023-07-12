@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/ussBtnTest.uss?fileID=7433441132597879392&amp;guid=b923d9501e35b854abba3058e4c99fbd&amp;type=3#ussBtnTest" />
+    <ui:VisualElement name="bg" style="width: 100%; height: 100%; justify-content: space-around; align-items: center; opacity: 1; visibility: visible; overflow: visible; display: flex;">
+        <ui:Button text="Test" display-tooltip-when-elided="true" name="instBtnTest" class="btnTest" style="white-space: nowrap; -unity-text-align: middle-center; flex-direction: column; color: rgb(0, 0, 0); width: 70%;" />
+    </ui:VisualElement>
+</ui:UXML>

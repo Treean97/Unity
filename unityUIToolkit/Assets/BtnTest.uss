@@ -1,0 +1,99 @@
+.dxBtn {
+    align-items: auto;
+    width: 70%;
+    height: 20%;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 50px;
+    border-left-color: rgb(255, 59, 59);
+    border-right-color: rgb(255, 59, 59);
+    border-top-color: rgb(255, 59, 59);
+    border-bottom-color: rgb(255, 59, 59);
+    border-left-width: 13px;
+    border-right-width: 13px;
+    border-top-width: 13px;
+    border-bottom-width: 13px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+}
+
+.dxBtn:Hover {
+    align-items: auto;
+    width: 70%;
+    height: 20%;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 50px;
+    border-left-color: rgb(255, 59, 59);
+    border-right-color: rgb(255, 59, 59);
+    border-top-color: rgb(255, 59, 59);
+    border-bottom-color: rgb(255, 59, 59);
+    border-left-width: 13px;
+    border-right-width: 13px;
+    border-top-width: 13px;
+    border-bottom-width: 13px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+}
+
+.dxBtn:Action {
+    align-items: auto;
+    width: 70%;
+    height: 20%;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 50px;
+    border-left-color: rgb(255, 59, 59);
+    border-right-color: rgb(255, 59, 59);
+    border-top-color: rgb(255, 59, 59);
+    border-bottom-color: rgb(255, 59, 59);
+    border-left-width: 13px;
+    border-right-width: 13px;
+    border-top-width: 13px;
+    border-bottom-width: 13px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+}
+
+.dxShow {
+    width: 100%;
+    height: 70%;
+    background-color: rgba(66, 107, 253, 255);
+    transition-duration: 3s;
+}
+
+.dxHide {
+    translate: 480px 0;
+    transition-duration: 3s;
+    transition-property: translate;
+}

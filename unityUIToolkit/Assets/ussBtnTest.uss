@@ -1,0 +1,28 @@
+.btnTest {
+    width: 100%;
+    height: 20%;
+    background-color: rgb(255, 255, 255);
+    font-size: 60px;
+    align-items: auto;
+    left: auto;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.btnTest:hover {
+    width: 100%;
+    height: 20%;
+    background-color: rgb(255, 95, 95);
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    scale: 1.2 1.2;
+}
+
+.btnTest:active {
+    width: 100%;
+    height: 20%;
+    background-color: rgb(85, 120, 255);
+    font-size: 60px;
+    scale: 1.2 1.2;
+}
