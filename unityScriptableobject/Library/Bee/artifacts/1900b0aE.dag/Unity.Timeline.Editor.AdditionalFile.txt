@@ -1,0 +1,1 @@
+C:\Cpp\Unity\exam_scriptableobject
