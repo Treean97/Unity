@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/17_Apply_TriPlaner/17_Apply_TriPlaner.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
